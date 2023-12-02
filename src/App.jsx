@@ -21,8 +21,8 @@ const App = () => {
     if (currPage > Math.ceil(list.length / itemsPerPage))
       setCurrPage(Math.ceil(list.length / itemsPerPage));
     else if (currPage === 0) setCurrPage(1);
+    // eslint-disable-next-line
   }, [list, itemsPerPage]);
-  // eslint-disable-next-line
 
   const queryHandler = (e) => {
     e.preventDefault();
