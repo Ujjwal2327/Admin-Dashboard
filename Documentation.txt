@@ -1,0 +1,18 @@
+
+First of all, thank you for allowing me to participate in the assignment. I am working on Assignment 2 for the Frontend Developer role.
+I have nearly completed the assignment and I have a few doubts regarding the same. It will be helpful if you clear my doubts
+
+1. For the "role" column, I have used a dropdown menu (to select either "admin" or "member" while editing the row). Please let me know if any changes are required
+
+2. I have also applied dynamic changes for the next-page and previous-page buttons.
+For instance, on the last page, the next-page button will disappear and similarly, on the first page, the previous-page button will disappear
+If there is any need to apply these dynamic changes in the first-page button & last-page button, please let me know.
+
+3. I could not find the "Delete Selected" button in the image on the instruction page. I have put it at the bottom left. Please check the attached image. If you want me to place it in any particular position, then please let me know.
+
+4. What is the functionality of the "Bulk Delete" button at the top right corner? I could not find it on the instructions page
+
+If there are any other suggestions, please tell me.
+
+Warm Regards
+Ujjwal Maheshwari
